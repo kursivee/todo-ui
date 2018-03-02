@@ -1,0 +1,3 @@
+rootProject.name = 'todoUI'
+
+include ':app'
